@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:cursive;
+}
+
+body {
+    background-image: url(heartsfalling.gif);
+    background-color: #ffb3c6;
+    color: #333;
+    text-align: center;
+    margin-top: 3em;
+}
+
+main {
+    margin-top: 3em;
+}
+
+firstdate {
+    margin-top: 2rem;
+}
+
+seconddate {
+    margin-top: 2rem;
+}
+
+img {
+    border: 2px solid #780000;
+    height: 25rem;
+    width: 20em;
+    object-fit: cover;
+}
+
+footer {
+    margin-top: 5em;
+    font-size: 0.8em;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
